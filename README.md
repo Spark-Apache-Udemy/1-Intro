@@ -3,7 +3,7 @@
 0. [Info en el shell](#schema0)
 1. [Primeros pasos](#schema)
 2. [Primera ejecución del contador](#schema2)
-
+3. [Enlaces](#schema3)
 
 <hr>
 
@@ -65,3 +65,17 @@ Simplemente porque nuestra ruta hacia los datos es distinta.
 ~~~ python
 (spark-course) ➜  ~ spark-submit ratings.counter.py
 ~~~
+
+
+<hr>
+
+<a name="schema3"></a>
+
+# 3 Enlaces que hemos usado
+[Digitalbooks](http://reader.digitalbooks.pro/content/preview/books/41061/book/OEBPS/Text/capitulo_3.html)
+
+[Spark doc](http://spark.apache.org/docs/latest/api/python/pyspark.html?highlight=mapvalues)
+
+[Datacamp](https://www.datacamp.com/community/blog/pyspark-cheat-sheet-python)
+
+[Breadth-First-Search](https://en.wikipedia.org/wiki/Breadth-first_search)
